@@ -1,6 +1,6 @@
 name: Jason L. Jordan
 favicon: null
-layout_spectrum: 0.2513
+layout_spectrum: 0.49589
 typography_spectrum: 0.74919
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
